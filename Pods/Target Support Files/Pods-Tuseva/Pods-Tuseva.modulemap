@@ -1,0 +1,6 @@
+framework module Pods_Tuseva {
+  umbrella header "Pods-Tuseva-umbrella.h"
+
+  export *
+  module * { export * }
+}
